@@ -27,6 +27,13 @@ header a {
     text-align: center;
 }
 
+.image {
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+
 form {
     max-width: 400px;
     margin: 20px auto;
